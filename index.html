@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roy's Cyber Store - Bitcoin Accepted</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🛒 Roy's Cyber Store</h1>
+            <p class="tagline">Premium Products - Bitcoin Payment Accepted</p>
+            <div class="cart-icon" onclick="toggleCart()">
+                🛒 Cart (<span id="cart-count">0</span>)
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="products-section">
+            <h2>Our Products</h2>
+            <div class="products-grid" id="products-grid">
+                <!-- Products will be dynamically loaded here -->
+            </div>
+        </section>
+
+        <!-- Shopping Cart Sidebar -->
+        <div class="cart-sidebar" id="cart-sidebar">
+            <div class="cart-header">
+                <h2>Shopping Cart</h2>
+                <button class="close-cart" onclick="toggleCart()">✕</button>
+            </div>
+            <div class="cart-items" id="cart-items">
+                <p class="empty-cart">Your cart is empty</p>
+            </div>
+            <div class="cart-footer">
+                <div class="cart-total">
+                    <strong>Total:</strong>
+                    <span id="cart-total">$0.00</span>
+                </div>
+                <button class="checkout-btn" onclick="proceedToCheckout()">
+                    Pay with Bitcoin
+                </button>
+            </div>
+        </div>
+
+        <!-- Checkout Modal -->
+        <div class="modal" id="checkout-modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2>Bitcoin Payment</h2>
+                    <button class="close-modal" onclick="closeCheckout()">✕</button>
+                </div>
+                <div class="modal-body">
+                    <div class="payment-info">
+                        <p><strong>Order Total:</strong> <span id="checkout-total">$0.00</span></p>
+                        <p><strong>BTC Amount:</strong> <span id="btc-amount">0.00000000</span> BTC</p>
+                        <p class="rate-info">Rate: <span id="btc-rate">$0.00</span>/BTC</p>
+                    </div>
+                    
+                    <div class="bitcoin-address">
+                        <h3>Send Bitcoin to:</h3>
+                        <div class="address-box">
+                            <code id="btc-address">bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh</code>
+                            <button class="copy-btn" onclick="copyAddress()">Copy</button>
+                        </div>
+                    </div>
+
+                    <div class="qr-code">
+                        <div class="qr-placeholder">
+                            <p>📱 QR Code</p>
+                            <p class="qr-info">Scan with your Bitcoin wallet</p>
+                        </div>
+                    </div>
+
+                    <div class="payment-instructions">
+                        <h4>Payment Instructions:</h4>
+                        <ol>
+                            <li>Copy the Bitcoin address above or scan the QR code</li>
+                            <li>Send exactly <strong><span class="btc-amount-text">0.00000000</span> BTC</strong> to the address</li>
+                            <li>Wait for transaction confirmation (usually 10-30 minutes)</li>
+                            <li>You'll receive an email confirmation once payment is verified</li>
+                        </ol>
+                    </div>
+
+                    <div class="order-summary">
+                        <h4>Order Summary:</h4>
+                        <div id="checkout-items"></div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button class="cancel-btn" onclick="closeCheckout()">Cancel</button>
+                    <button class="confirm-btn" onclick="confirmPayment()">I've Sent the Payment</button>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Roy's Cyber Store. All rights reserved.</p>
+            <p>We accept Bitcoin payments for secure and anonymous transactions</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
