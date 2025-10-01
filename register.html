@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register | RoysCyberStore</title>
+    <!-- Base URL for assets -->
+    <!-- Removed by WebCopy --><!--<base href="/public">--><!-- Removed by WebCopy -->
+
+    <!-- Link to external stylesheets or fonts if needed -->
+    <link rel="stylesheet" href="css2?family=Poppins:wght@300;400;600&display=swap">
+
+    <style>
+        body {
+            background-image: url('public/logs.jpg'); /* Replace with your image path */
+        background-size: cover; /* Ensures the image covers the entire background */
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Prevent the image from repeating */
+        font-family: 'Poppins', sans-serif; /* Modern font style */
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+        overflow: hidden;
+        }
+
+        /* Rotating animation for background elements */
+        @keyframes rotate {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .rotating-bg {
+            position: absolute;
+            width: 150px;
+            height: 150px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 50%;
+            animation: rotate 10s linear infinite;
+            top: 20%;
+            left: 20%;
+        }
+
+        .rotating-bg:nth-child(2) {
+            width: 250px;
+            height: 250px;
+            top: 70%;
+            left: 60%;
+            animation-duration: 15s;
+        }
+
+        .rotating-bg:nth-child(3) {
+            width: 120px;
+            height: 120px;
+            top: 30%;
+            left: 75%;
+            animation-duration: 12s;
+        }
+
+        .registration-box {
+            background: rgba(255, 255, 255, 0.85); /* Semi-transparent background */
+            backdrop-filter: blur(15px); /* Blurred background effect */
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+            width: 400px;
+            max-width: 90%;
+            position: relative;
+            z-index: 2;
+            animation: fadeIn 1s ease-out forwards;
+        }
+
+        /* Fade-in animation for the registration box */
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+                transform: scale(0.9);
+            }
+            100% {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        /* Input fields styling */
+        .text, .input {
+            background: rgba(255, 255, 255, 0.6);
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin-bottom: 15px;
+            width: 100%;
+            color: #333;
+            border-radius: 8px;
+            box-sizing: border-box;
+            font-size: 1rem;
+            outline: none;
+            transition: all 0.3s ease;
+        }
+
+        .text:focus, .input:focus {
+            border-color: #DC2625; /* Modern red theme focus color */
+        }
+
+        /* Pulsating button animation */
+        @keyframes pulsate {
+            0% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.05);
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        /* Submit button - Modern Theme */
+        input[type="submit"] {
+            background: linear-gradient(135deg, #DC2625 0%, #EF4444 100%);
+            color: #fff;
+            padding: 15px;
+            border: none;
+            width: 100%;
+            cursor: pointer;
+            border-radius: 15px;
+            font-weight: 700;
+            font-size: 1.1rem;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 0 20px 25px -5px rgba(220, 38, 37, 0.1), 0 10px 10px -5px rgba(220, 38, 37, 0.04);
+            position: relative;
+            overflow: hidden;
+        }
+
+        input[type="submit"]:hover {
+            transform: translateY(-3px) scale(1.02);
+            box-shadow: 0 25px 35px -5px rgba(220, 38, 37, 0.3);
+        }
+
+        input[type="submit"]:active {
+            transform: translateY(-1px) scale(0.98);
+        }
+
+        /* Additional text and link styling */
+        p {
+            text-align: center;
+            margin-top: 15px;
+            font-size: 14px;
+            color: #555;
+        }
+
+        a {
+            color: #DC2625;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Logo styling */
+        .logo-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .logo-container img {
+            width: 100px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <!-- Rotating background elements for unique animation -->
+    <div class="rotating-bg"></div>
+    <div class="rotating-bg"></div>
+    <div class="rotating-bg"></div>
+
+    <!-- Registration form -->
+    <div class="registration-box">
+        <div class="logo-container">
+            <!-- Placeholder for logo -->
+        </div>
+        <h3>RoysCyberStore REGISTRATION PAGE</h3>
+        <div class="form-info">
+            <!-- Laravel session status and validation errors -->
+            
+            
+            <!-- Registration form -->
+            <form method="POST" action="https://royscyberstore.com/register">
+                <input type="hidden" name="_token" value="oyPF7YJtzmYxOhMj3WVBrTp1JP5t9NXJboSKlaZT">
+                <!-- Username input -->
+                <input class="border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 rounded-md shadow-sm text" id="name" placeholder="Username" type="text" name="name" required="required" autofocus="autofocus">
+
+                <!-- Email input -->
+                <input class="border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 rounded-md shadow-sm text" id="email" placeholder="Email Address" type="email" name="email" required="required">
+
+                <!-- Password input -->
+                <input class="border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 rounded-md shadow-sm input" id="password" placeholder="Password" type="password" name="password" required="required" autocomplete="new-password">
+
+                <!-- Confirm Password input -->
+                <input class="border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 rounded-md shadow-sm input" id="password_confirmation" placeholder="Confirm Password" type="password" name="password_confirmation" required="required" autocomplete="new-password">
+
+                <!-- Submit button -->
+                <input type="submit" name="register" value="Register">
+
+                <!-- Login link -->
+                <p><a href="login.html">Account Login</a></p>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

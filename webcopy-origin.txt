@@ -1,0 +1,1200 @@
+Uri: http://www.logshop.store/
+File Name: C:\Downloaded Web Sites\www.logshop.store\index-2.htm
+Content Type: text/html
+
+Uri: http://www.logshop.store/home/css/main.css
+File Name: C:\Downloaded Web Sites\www.logshop.store\home\css\main-2.css
+Content Type: text/css
+
+Uri: http://www.logshop.store/home/js.js
+File Name: C:\Downloaded Web Sites\www.logshop.store\home\js-2.js
+Content Type: text/javascript
+
+Uri: http://www.logshop.store/orders
+File Name: C:\Downloaded Web Sites\www.logshop.store\orders-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/product/1728423795.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728423795-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728424060.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728424060-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728424116.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728424116-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728424279.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728424279-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728424332.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728424332-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728424448.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728424448-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728425216.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728425216-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728425280.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728425280-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728425393.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728425393-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728425479.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728425479-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728425547.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728425547-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728425613.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728425613-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728425703.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728425703-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728425769.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728425769-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728425887.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728425887-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728425936.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728425936-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728425981.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728425981-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728426026.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728426026-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728426079.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728426079-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728426251.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728426251-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728426299.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728426299-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728464327.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728464327-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728464430.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728464430-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728464484.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728464484-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728464537.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728464537-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728464613.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728464613-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728464670.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728464670-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728464725.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728464725-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728464794.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728464794-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728464887.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728464887-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728465131.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728465131-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728465177.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728465177-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728465303.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728465303-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728465344.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728465344-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728465395.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728465395-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728465470.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728465470-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728465654.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728465654-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728466042.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728466042-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728466090.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728466090-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728467202.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728467202-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728467346.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728467346-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728467380.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728467380-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728467466.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728467466-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728467521.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728467521-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728467653.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728467653-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728467709.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728467709-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728467760.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728467760-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728467847.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728467847-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728467882.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728467882-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728467923.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728467923-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728467957.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728467957-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728468241.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728468241-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728468305.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728468305-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728468559.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728468559-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728468922.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728468922-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728468997.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728468997-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728469170.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728469170-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728469545.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728469545-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728469587.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728469587-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728469645.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728469645-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728469694.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728469694-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728469741.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728469741-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728469834.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728469834-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728470004.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728470004-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728470095.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728470095-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728470144.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728470144-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728470232.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728470232-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728470323.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728470323-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728470407.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728470407-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728470518.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728470518-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728470588.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728470588-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728470636.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728470636-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728470709.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728470709-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728470807.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728470807-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728471552.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728471552-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728471598.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728471598-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728471656.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728471656-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728471716.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728471716-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728471843.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728471843-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728474695.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728474695-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728474883.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728474883-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728475112.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728475112-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728484634.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728484634-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728484855.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728484855-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728487974.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728487974-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728488083.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728488083-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728488142.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728488142-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728488330.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728488330-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728488436.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728488436-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728488499.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728488499-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728488656.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728488656-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728488737.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728488737-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728488805.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728488805-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728488868.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728488868-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728488967.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728488967-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728513376.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728513376-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728513837.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728513837-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728514119.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728514119-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728514392.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728514392-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728514461.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728514461-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728514580.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728514580-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728514899.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728514899-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728515026.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728515026-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728515127.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728515127-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728515373.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728515373-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728515465.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728515465-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728515599.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728515599-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728516028.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728516028-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728516182.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728516182-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728516225.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728516225-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728543503.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728543503-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728543574.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728543574-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728543761.jpeg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728543761-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728543804.jpeg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728543804-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728546610.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728546610-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728546650.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728546650-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728547030.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728547030-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728547490.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728547490-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728547622.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728547622-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728547859.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728547859-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728548128.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728548128-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728548218.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728548218-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728548371.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728548371-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728548479.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728548479-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728548530.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728548530-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728548630.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728548630-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728548722.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728548722-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728548777.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728548777-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728549226.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728549226-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728549461.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728549461-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728549556.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728549556-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728549605.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728549605-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728549675.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728549675-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728551236.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728551236-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728551314.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728551314-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728551599.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728551599-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728551733.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728551733-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728552285.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728552285-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728552331.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728552331-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728552374.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728552374-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728552407.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728552407-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728552461.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728552461-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728552847.jpeg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728552847-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728552942.jpeg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728552942-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728553319.jpeg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728553319-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728553477.jpeg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728553477-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728553510.jpeg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728553510-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728554492.jpeg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728554492-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728555090.jpeg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728555090-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728555149.jpeg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728555149-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728556163.jpeg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728556163-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728556242.jpeg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728556242-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728556276.jpeg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728556276-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728556656.png
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728556656-2.png
+Content Type: image/png
+
+Uri: http://www.logshop.store/product/1728556688.png
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728556688-2.png
+Content Type: image/png
+
+Uri: http://www.logshop.store/product/1728556724.png
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728556724-2.png
+Content Type: image/png
+
+Uri: http://www.logshop.store/product/1728557798.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728557798-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728557892.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728557892-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728557969.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728557969-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728558880.png
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728558880-2.png
+Content Type: image/png
+
+Uri: http://www.logshop.store/product/1728558934.png
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728558934-2.png
+Content Type: image/png
+
+Uri: http://www.logshop.store/product/1728559043.png
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728559043-2.png
+Content Type: image/png
+
+Uri: http://www.logshop.store/product/1728559506.png
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728559506-2.png
+Content Type: image/png
+
+Uri: http://www.logshop.store/product/1728559572.png
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728559572-2.png
+Content Type: image/png
+
+Uri: http://www.logshop.store/product/1728559621.png
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728559621-2.png
+Content Type: image/png
+
+Uri: http://www.logshop.store/product/1728593896.webp
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728593896-2.webp
+Content Type: image/webp
+
+Uri: http://www.logshop.store/product/1728594371.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728594371-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728594808.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728594808-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728596400.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728596400-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728596482.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728596482-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728596543.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728596543-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728597078.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728597078-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728598602.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728598602-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728598702.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728598702-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728601504.JPG
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728601504-2.JPG
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728603224.webp
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728603224-2.webp
+Content Type: image/webp
+
+Uri: http://www.logshop.store/product/1728603343.webp
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728603343-2.webp
+Content Type: image/webp
+
+Uri: http://www.logshop.store/product/1728603421.webp
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728603421-2.webp
+Content Type: image/webp
+
+Uri: http://www.logshop.store/product/1728634123.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728634123-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728641005.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728641005-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728641129.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728641129-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728668764.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728668764-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728668936.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728668936-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1728669019.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1728669019-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729157318.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729157318-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729157446.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729157446-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729157510.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729157510-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729157871.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729157871-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729157932.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729157932-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729157997.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729157997-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729158111.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729158111-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729159476.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729159476-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729159815.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729159815-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729159883.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729159883-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729159952.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729159952-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729160061.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729160061-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729160166.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729160166-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729160802.JPG
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729160802-2.JPG
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729160853.JPG
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729160853-2.JPG
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729160880.JPG
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729160880-2.JPG
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729244016.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729244016-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729244360.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729244360-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729245068.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729245068-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729245183.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729245183-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729245717.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729245717-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729246014.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729246014-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729246241.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729246241-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729246793.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729246793-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729247347.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729247347-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729247658.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729247658-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729247785.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729247785-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729248414.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729248414-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729248472.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729248472-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729248535.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729248535-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729248595.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729248595-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729249218.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729249218-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1729250962.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1729250962-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1730287959.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1730287959-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1730288400.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1730288400-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1730288464.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1730288464-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1730288511.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1730288511-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1730288552.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1730288552-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1730288692.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1730288692-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1730378874.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1730378874-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/product/1758780611.jpg
+File Name: C:\Downloaded Web Sites\www.logshop.store\product\1758780611.jpg
+Content Type: image/jpeg
+
+Uri: http://www.logshop.store/redirect
+File Name: C:\Downloaded Web Sites\www.logshop.store\redirect-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/CREDIT%26DEBIT CARDS/Live CC
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\CREDIT&DEBIT CARDS\Live CC-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/CREDIT%26DEBIT CARDS/Random CC with CVV
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\CREDIT&DEBIT CARDS\Random CC with CVV-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/CRYPTO WALLETS/Blockchain Accounts
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\CRYPTO WALLETS\Blockchain Accounts-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/CRYPTO WALLETS/Coinbase Accounts
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\CRYPTO WALLETS\Coinbase Accounts-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/GIFT CARDS/Amazon
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\GIFT CARDS\Amazon-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/GIFT CARDS/MasterCard gift card
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\GIFT CARDS\MasterCard gift card-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/GIFT CARDS/Netflix
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\GIFT CARDS\Netflix-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/GIFT CARDS/Visa Virtual Account
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\GIFT CARDS\Visa Virtual Account-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/GIFT CARDS/Walmart e-gifts
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\GIFT CARDS\Walmart e-gifts-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/MOBILE LOGS/CASHAPP (Verified)
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\MOBILE LOGS\CASHAPP (Verified)-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/MOBILE LOGS/PAYPAL
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\MOBILE LOGS\PAYPAL-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/NON-USA BANK LOGS/AMP Bank Australia
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\NON-USA BANK LOGS\AMP Bank Australia-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/NON-USA BANK LOGS/Banco Santander Spain
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\NON-USA BANK LOGS\Banco Santander Spain-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/NON-USA BANK LOGS/Banque Populaire
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\NON-USA BANK LOGS\Banque Populaire-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/NON-USA BANK LOGS/Deutsche Bank
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\NON-USA BANK LOGS\Deutsche Bank-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/NON-USA BANK LOGS/First Bank Of Nigeria
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\NON-USA BANK LOGS\First Bank Of Nigeria-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/NON-USA BANK LOGS/Metro Bank UK
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\NON-USA BANK LOGS\Metro Bank UK-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/NON-USA BANK LOGS/Royal Bank-Scotland
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\NON-USA BANK LOGS\Royal Bank-Scotland-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/NON-USA BANK LOGS/TD-Toronto
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\NON-USA BANK LOGS\TD-Toronto-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/SECURE CASHOUT TOOLS/OTP bots
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\SECURE CASHOUT TOOLS\OTP bots-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/SECURE CASHOUT TOOLS/RDP
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\SECURE CASHOUT TOOLS\RDP-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/SECURE CASHOUT TOOLS/VPN Service
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\SECURE CASHOUT TOOLS\VPN Service-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/SHOPWITHSCRIPT/Shopwithscript
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\SHOPWITHSCRIPT\Shopwithscript-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/USA BANK LOGS/BANK OF AMERICA
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\USA BANK LOGS\BANK OF AMERICA-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/USA BANK LOGS/CHASE BANK
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\USA BANK LOGS\CHASE BANK-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/USA BANK LOGS/CHIME BANK
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\USA BANK LOGS\CHIME BANK-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/USA BANK LOGS/CITIZENS BANK
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\USA BANK LOGS\CITIZENS BANK-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/USA BANK LOGS/CREDIT UNIONS
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\USA BANK LOGS\CREDIT UNIONS-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/USA BANK LOGS/HUNTINGTON BANK
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\USA BANK LOGS\HUNTINGTON BANK-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/USA BANK LOGS/PNC BANK
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\USA BANK LOGS\PNC BANK-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/shop/USA BANK LOGS/WELLS FARGO
+File Name: C:\Downloaded Web Sites\www.logshop.store\shop\USA BANK LOGS\WELLS FARGO-2.html
+Content Type: text/html
+
+Uri: http://www.logshop.store/show_order
+File Name: C:\Downloaded Web Sites\www.logshop.store\show_order-2.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/chart.js
+File Name: C:\Downloaded Web Sites\www.logshop.store\npm\chart-2.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css
+File Name: C:\Downloaded Web Sites\www.logshop.store\npm\remixicon@3.5.0\fonts\remixicon-2.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.eot?t=1690730386070
+File Name: C:\Downloaded Web Sites\www.logshop.store\npm\remixicon@3.5.0\fonts\remixicon-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.svg?t=1690730386070
+File Name: C:\Downloaded Web Sites\www.logshop.store\npm\remixicon@3.5.0\fonts\remixicon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.ttf?t=1690730386070
+File Name: C:\Downloaded Web Sites\www.logshop.store\npm\remixicon@3.5.0\fonts\remixicon-2.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.woff2?t=1690730386070
+File Name: C:\Downloaded Web Sites\www.logshop.store\npm\remixicon@3.5.0\fonts\remixicon-2.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.woff?t=1690730386070
+File Name: C:\Downloaded Web Sites\www.logshop.store\npm\remixicon@3.5.0\fonts\remixicon-2.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11
+File Name: C:\Downloaded Web Sites\www.logshop.store\npm\sweetalert2@11-3
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css
+File Name: C:\Downloaded Web Sites\www.logshop.store\npm\sweetalert2@11\dist\sweetalert2.min-2.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css
+File Name: C:\Downloaded Web Sites\www.logshop.store\npm\tailwindcss@2.2.19\dist\tailwind.min-2.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js
+File Name: C:\Downloaded Web Sites\www.logshop.store\particles.js\2.0.0\particles.min-2.js
+Content Type: application/javascript
+
+Uri: https://cdn.tailwindcss.com/3.4.17
+File Name: C:\Downloaded Web Sites\www.logshop.store\3.4-2.17
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\www.logshop.store\css2-4
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://i.pinimg.com/originals/2f/bf/ba/2fbfbacef953f5ff48b0c3fdb7ba5fe9.gif
+File Name: C:\Downloaded Web Sites\www.logshop.store\originals\2f\bf\ba\2fbfbacef953f5ff48b0c3fdb7ba5fe9-2.gif
+Content Type: image/gif
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js
+File Name: C:\Downloaded Web Sites\www.logshop.store\external-embedding\embed-widget-ticker-tape-2.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/@popperjs/core@2.11.8/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\www.logshop.store\@popperjs\core@2.11.8\dist\umd\popper.min-2.js
+Content Type: text/javascript
+
+
+File Name: C:\Downloaded Web Sites\www.logshop.store\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\www.logshop.store\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://i.pinimg.com/originals/2f/bf/ba/2fbfbacef953f5ff48b0c3fdb7ba5fe9.gif
+File Name: C:\Downloaded Web Sites\www.logshop.store\originals\2f\bf\ba\2fbfbacef953f5ff48b0c3fdb7ba5fe9-1.gif
+Content Type: image/gif
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js
+File Name: C:\Downloaded Web Sites\www.logshop.store\external-embedding\embed-widget-ticker-tape-1.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/@popperjs/core@2.11.8/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\www.logshop.store\@popperjs\core@2.11.8\dist\umd\popper.min-1.js
+Content Type: text/javascript
+

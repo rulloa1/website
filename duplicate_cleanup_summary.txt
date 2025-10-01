@@ -1,0 +1,19 @@
+Duplicate cleanup summary
+Date: 2025-09-25
+
+- Duplicate groups found: 3,276
+- Duplicate files found: 6,971
+- Initially removable files: 6,912
+
+Removed:
+- particles.js numbered duplicates: 2 files
+- Product image duplicates: 613 files (36.35 MB)
+- node_modules duplicates: 6,297 files (9.51 MB)
+- Remaining groups removed: 0 files
+
+Total files removed: 6,912
+Total space freed: 45.86 MB
+
+Artifacts:
+- Analysis report: C:\xampp\htdocs\www.logshop.store\duplicate_files_report.txt
+- Removal list (pre-action): C:\xampp\htdocs\www.logshop.store\files_to_remove.txt
