@@ -460,55 +460,7 @@
                                                   <button type="button" onclick="buyProduct(`Random CC`, `68`, `600-1000`, `CARD BRAND :   YES, CARD NUMBER : YES, NAME  : YES COUNTRY  : YES, CVV/CVC  : YES, EXPIRY  : YES`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1728668936.jpg" alt="Random CC">
                       </div>
@@ -522,55 +474,7 @@
                                                   <button type="button" onclick="buyProduct(`Random CC`, `125`, `1,000-1,500`, `CARD BRAND :   YES, CARD NUMBER : YES, NAME  : YES, COUNTRY  : YES, CVV/CVC  : YES EXPIRY  : YES`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1728669019.jpg" alt="Random CC">
                       </div>
@@ -584,55 +488,7 @@
                                                   <button type="button" onclick="buyProduct(`Random CC`, `165`, `2,000-3,000`, `CARD BRAND :   YES, CARD NUMBER : YES, NAME  : YES, COUNTRY  : YES, CVV/CVC  : YES EXPIRY  : YES`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                              </div>
+</div>
 
 
 
@@ -743,7 +599,7 @@
 }
 </style>
 </body>
-</html><script src="../../buy-button-script.js"></script><script src="../../sidebar-fix.js"></script><!-- SweetAlert2 JS -->
+</html><script src="../../review-script.js"></script><script src="../../buy-button-script.js"></script><script src="../../sidebar-fix.js"></script><!-- SweetAlert2 JS -->
 
 
 

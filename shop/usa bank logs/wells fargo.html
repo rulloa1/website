@@ -462,55 +462,7 @@
                         </button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1728468305.jpg" alt="WELLS FARGO">
                       </div>
@@ -524,55 +476,7 @@
                                                   <button type="button" onclick="buyProduct(`WELLS FARGO`, `150`, `1,700`, `Login Info ✅   Email access ✅ IDentity  : Driver&#039;s license ✅ Additional Info : [ATM-Pin - Account-Number - Routing-Number - DOB - MMN - Phone - SSN , D/L Front And Back Sides And Selfie Included, Login Cookies )  Vendor- royscyberstore.com ✅`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1728468559.jpg" alt="WELLS FARGO">
                       </div>
@@ -586,55 +490,7 @@
                                                   <button type="button" onclick="buyProduct(`WELLS FARGO`, `200`, `2,500`, `Login Info ✅   Email access ✅ IDentity  : Driver&#039;s license ✅ Additional Info : [ATM-Pin - Account-Number - Routing-Number - DOB - MMN - Phone - SSN , D/L Front And Back Sides And Selfie Included, Login Cookies )  Vendor- royscyberstore.com ✅`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1728468922.jpg" alt="WELLS FARGO">
                       </div>
@@ -648,55 +504,7 @@
                                                   <button type="button" onclick="buyProduct(`WELLS FARGO`, `250`, `3,250`, `Login Info ✅   Email access ✅ IDentity  : Driver&#039;s license ✅ Additional Info : [ATM-Pin - Account-Number - Routing-Number - DOB - MMN - Phone - SSN , D/L Front And Back Sides And Selfie Included, Login Cookies )  Vendor- royscyberstore.com ✅`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1728468997.jpg" alt="WELLS FARGO">
                       </div>
@@ -710,55 +518,7 @@
                                                   <button type="button" onclick="buyProduct(`WELLS FARGO`, `350`, `5,000`, `Login Info ✅   Email access ✅ IDentity  : Driver&#039;s license ✅ Additional Info : [ATM-Pin - Account-Number - Routing-Number - DOB - MMN - Phone - SSN , D/L Front And Back Sides And Selfie Included, Login Cookies )  Vendor- royscyberstore.com ✅`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1728469170.jpg" alt="WELLS FARGO">
                       </div>
@@ -772,55 +532,7 @@
                                                   <button type="button" onclick="buyProduct(`WELLS FARGO`, `450`, `7,000`, `Login Info ✅   Email access ✅ IDentity  : Driver&#039;s license ✅ Additional Info : [ATM-Pin - Account-Number - Routing-Number - DOB - MMN - Phone - SSN , D/L Front And Back Sides And Selfie Included, Login Cookies )  Vendor- royscyberstore.com ✅`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1728469545.jpg" alt="WELLS FARGO">
                       </div>
@@ -834,55 +546,7 @@
                                                   <button type="button" onclick="buyProduct(`WELLS FARGO`, `550`, `10,000`, `Login Info ✅   Email access ✅ IDentity  : Driver&#039;s license ✅ Additional Info : [ATM-Pin - Account-Number - Routing-Number - DOB - MMN - Phone - SSN , D/L Front And Back Sides And Selfie Included, Login Cookies )  Vendor- royscyberstore.com ✅`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1728469587.jpg" alt="WELLS FARGO">
                       </div>
@@ -896,55 +560,7 @@
                                                   <button type="button" onclick="buyProduct(`WELLS FARGO`, `680`, `13,000`, `Login Info ✅   Email access ✅ IDentity  : Driver&#039;s license ✅ Additional Info : [ATM-Pin - Account-Number - Routing-Number - DOB - MMN - Phone - SSN , D/L Front And Back Sides And Selfie Included, Login Cookies )  Vendor- royscyberstore.com ✅`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1728469645.jpg" alt="WELLS FARGO">
                       </div>
@@ -958,55 +574,7 @@
                                                   <button type="button" onclick="buyProduct(`WELLS FARGO`, `750`, `16,500`, `Login Info ✅   Email access ✅ IDentity  : Driver&#039;s license ✅ Additional Info : [ATM-Pin - Account-Number - Routing-Number - DOB - MMN - Phone - SSN , D/L Front And Back Sides And Selfie Included, Login Cookies )  Vendor- royscyberstore.com ✅`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1728469694.jpg" alt="WELLS FARGO">
                       </div>
@@ -1020,55 +588,7 @@
                                                   <button type="button" onclick="buyProduct(`WELLS FARGO`, `875`, `20,000`, `Login Info ✅   Email access ✅ IDentity  : Driver&#039;s license ✅ Additional Info : [ATM-Pin - Account-Number - Routing-Number - DOB - MMN - Phone - SSN , D/L Front And Back Sides And Selfie Included, Login Cookies )  Vendor- royscyberstore.com ✅`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1728469741.jpg" alt="WELLS FARGO">
                       </div>
@@ -1082,55 +602,7 @@
                                                   <button type="button" onclick="buyProduct(`WELLS FARGO`, `950`, `25,000`, `Login Info ✅   Email access ✅ IDentity  : Driver&#039;s license ✅ Additional Info : [ATM-Pin - Account-Number - Routing-Number - DOB - MMN - Phone - SSN , D/L Front And Back Sides And Selfie Included, Login Cookies )  Vendor- royscyberstore.com ✅`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1728469834.jpg" alt="WELLS FARGO">
                       </div>
@@ -1144,55 +616,7 @@
                                                   <button type="button" onclick="buyProduct(`WELLS FARGO`, `1200`, `30,000`, `Login Info ✅   Email access ✅ IDentity  : Driver&#039;s license ✅ Additional Info : [ATM-Pin - Account-Number - Routing-Number - DOB - MMN - Phone - SSN , D/L Front And Back Sides And Selfie Included, Login Cookies )  Vendor- royscyberstore.com ✅`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                              </div>
+</div>
 
 
 
@@ -1303,7 +727,7 @@
 }
 </style>
 </body>
-</html><script src="../../buy-button-script.js"></script><script src="../../sidebar-fix.js"></script><!-- SweetAlert2 JS -->
+</html><script src="../../review-script.js"></script><script src="../../buy-button-script.js"></script><script src="../../sidebar-fix.js"></script><!-- SweetAlert2 JS -->
 
 
 
