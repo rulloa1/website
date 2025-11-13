@@ -461,55 +461,7 @@
                                                   <button type="button" onclick="buyProduct(`Blockchain Account`, `99`, `1,250`, `Wallet ID, Password, 2 FA, Email verification (holder&#039;s email &amp; password for verification), Recovery phrase (Backup), Private Key`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1729159815-2.jpg" alt="Blockchain Account">
                       </div>
@@ -523,55 +475,7 @@
                                                   <button type="button" onclick="buyProduct(`Blockchain Account`, `175`, `2,500`, `Wallet ID, Password, 2 FA, Email verification (holder&#039;s email &amp; password for verification), Recovery phrase (Backup), Private Key`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1729159883-2.jpg" alt="Blockchain Account">
                       </div>
@@ -585,55 +489,7 @@
                                                   <button type="button" onclick="buyProduct(`Blockchain Account`, `250`, `4,000`, `Wallet ID, Password, 2 FA, Email verification (holder&#039;s email &amp; password for verification), Recovery phrase (Backup), Private Key`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1729159952-2.jpg" alt="Blockchain Account">
                       </div>
@@ -647,55 +503,7 @@
                                                   <button type="button" onclick="buyProduct(`Blockchain Account`, `350`, `5,500`, `Wallet ID, Password, 2 FA, Email verification (holder&#039;s email &amp; password for verification), Recovery phrase (Backup), Private Key`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1729160061-2.jpg" alt="Blockchain Account">
                       </div>
@@ -709,55 +517,7 @@
                                                   <button type="button" onclick="buyProduct(`Blockchain Account`, `520`, `7,750`, `Wallet ID, Password, 2 FA, Email verification (holder&#039;s email &amp; password for verification), Recovery phrase (Backup), Private Key`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                                                      <div class="card">
+<div class="card">
                       <div class="card-image">
                         <img src="../../product/1729160166-2.jpg" alt="Blockchain Account">
                       </div>
@@ -771,55 +531,7 @@
                                                   <button type="button" onclick="buyProduct(`Blockchain Account`, `750`, `10,000`, `Wallet ID, Password, 2 FA, Email verification (holder&#039;s email &amp; password for verification), Recovery phrase (Backup), Private Key`)" class="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">BUY <i class="fas fa-cart-arrow-down"></i></button>
                                               </div>
                     </div>
-                  
-
-
-                <script>
-                    function showReview(itemId) {
-                        // Fetch review data via AJAX or use existing data
-                        var reviews = [];
-                        var itemReviews = reviews.filter(review => review.product_id === itemId);
-
-                        // Construct review content
-                        var reviewContent = '<h2 class="text-center">Reviews:</h2><ul class="review-list">';
-                        if (itemReviews.length > 0) {
-                            itemReviews.forEach((review, index) => {
-                                reviewContent += `<li style="text-align: center">
-                                    ${index + 1}. User: ${review.username}<br>
-                                    Comment: ${review.comment}<br>
-                                    Rating: ${'<i style="color:yellow" class="fas fa-star"></i>'.repeat(review.rating)}
-                                </li>`;
-                            });
-                        } else {
-                            reviewContent += '<li class="text-center">No reviews available for this product.</li>';
-                        }
-                        reviewContent += '</ul>';
-
-                        // Show PNotify alert
-                        PNotify.alert({
-                            title: 'Reviews',
-                            text: reviewContent,
-                            type: 'info',
-                            icon: 'fas fa-comments',
-                            modules: {
-                                Buttons: {
-                                    closer: true,
-                                    sticker: false
-                                }
-                            },
-                            addClass: 'pnotify-custom',
-                            width: 'auto',
-                            buttons: {
-                                closer: true,
-                                sticker: false
-                            }
-                        });
-                    }
-                </script>
-
-
-
-                              </div>
+</div>
 
 
 
@@ -930,7 +642,7 @@
 }
 </style>
 </body>
-</html><script src="../../buy-button-script.js"></script><script src="../../sidebar-fix.js"></script><!-- SweetAlert2 JS -->
+</html><script src="../../review-script.js"></script><script src="../../buy-button-script.js"></script><script src="../../sidebar-fix.js"></script><!-- SweetAlert2 JS -->
 
 
 
